@@ -6,8 +6,6 @@ import { Text } from 'src/ui/text';
 
 import styles from './Article.module.scss';
 
-
-
 export const Article = () => {
 	return (
 		<article className={clsx(styles.article)}>
